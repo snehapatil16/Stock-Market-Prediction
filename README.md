@@ -35,8 +35,3 @@ This script will train a LSTM model using all the historical stock data provided
 - `stock-prediction.py`: Trains a LSTM model on a provided dataset, splitting it into training and testing subsets to evaluate the model's performance. The script outputs a visualization of the model's predictions against the actual stock prices from the test set.
 
 - `predictions.py`: Trains a LSTM model on a provided dataset, using all the data for training, to forecast future stock prices. It takes the last 60 days of closing prices to predict the next 7 days' prices and outputs a graph showing the predicted future prices.
-
-## Authors
-
-- Sneha Patil
-- Annika Sonne
