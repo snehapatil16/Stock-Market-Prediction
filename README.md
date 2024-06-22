@@ -12,9 +12,6 @@ This project implements a Long Short-Term Memory (LSTM) network to predict the s
 ### Installation
 
 1. Clone the repository to your local machine.
-    git clone git@github.com:CS-Classroom-2023-COMP-3501/practicum-code-annikajsonne.git
-    cd CS-Classroom-2023-COMP-3501/practicum-code-annikajsonne.git 
-    *note that this could be different depending on where you cloned the repository
 
 2. Install the required packages:
     pip install -r requirements.txt
